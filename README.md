@@ -1,4 +1,4 @@
-### IP address change for Ethernet in cmd
+### IP address change for interface Ethernet in CMD Windows
 ```
 C:\Windows\System32>ipadd help
 
